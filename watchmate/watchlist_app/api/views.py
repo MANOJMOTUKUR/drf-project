@@ -38,3 +38,4 @@ def movie_detail(request, pk):
             return Response(serializer.errors)
         
     # if request.method == 'DELETE':
+    # manoj 
